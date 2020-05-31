@@ -1,0 +1,7 @@
+Developer : Ali Göktaş
+-----------------------
+FileInputOutput.kt
+FileProcess
+showText
+23
+lateinit property text has not been initialized
