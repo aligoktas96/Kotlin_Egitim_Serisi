@@ -29,7 +29,7 @@ fun main(){
 
     var shortSample:Short = 5000
 
-    var IntSample:Int = 500000
+    var intSample:Int = 500000
 
     var nonDeclared = 300
 
